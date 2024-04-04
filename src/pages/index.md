@@ -21,7 +21,7 @@ description: This is the home page of Adobe Bridge APIs
 
 Adobe Bridge becomes even more powerful with scripted plug-ins you build in JavaScript. Automate complex file conversion processes, manipulate metadata in bulk, create custom workspaces and interfaces, and integrate workflows across Adobe Creative Cloud apps. Download the SDK today and build that superpowered asset management tool you and your users want.
 
-* [Start building today](https://console.adobe.io/downloads/br)
+* [Start building today](https://developer.adobe.com/console/servicesandapis/br)
 
 
 

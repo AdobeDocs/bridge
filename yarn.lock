@@ -6068,6 +6068,19 @@ __metadata:
   languageName: node
   linkType: hard
 
+"bridge@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "bridge@workspace:."
+  dependencies:
+    "@adobe/gatsby-theme-aio": ^4.11.0
+    gatsby: 4.22.0
+    react: ^17.0.2
+    react-dom: ^17.0.2
+    remark-cli: ^11.0.0
+    remark-validate-links: ^12.1.0
+  languageName: unknown
+  linkType: soft
+
 "brorand@npm:^1.0.1, brorand@npm:^1.1.0":
   version: 1.1.0
   resolution: "brorand@npm:1.1.0"
@@ -7941,19 +7954,6 @@ __metadata:
   checksum: b48da9340481742547263d5d985e65d078592557863402ecf538511735e83575867e94f91fe74405ea19b61351feb99efccae7e55de9a151d5654e3417cea05b
   languageName: node
   linkType: hard
-
-"dev-site-documentation-template@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "dev-site-documentation-template@workspace:."
-  dependencies:
-    "@adobe/gatsby-theme-aio": ^4.11.0
-    gatsby: 4.22.0
-    react: ^17.0.2
-    react-dom: ^17.0.2
-    remark-cli: ^11.0.0
-    remark-validate-links: ^12.1.0
-  languageName: unknown
-  linkType: soft
 
 "devcert@npm:^1.2.0":
   version: 1.2.2
